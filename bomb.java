@@ -8,6 +8,10 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public class bomb extends Actor
 {
+    public bomb() {
+        setImage("images/bomb.png");
+    }
+    
     /**
      * Act - do whatever the bomb wants to do. This method is called whenever
      * the 'Act' or 'Run' button gets pressed in the environment.
