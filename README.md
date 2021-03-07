@@ -5,11 +5,16 @@
 ------------------------------------------------------------------------
 
 **PROJECT TITLE:** Bees and Bombs
+
 **PURPOSE OF PROJECT:** This is designed as a demo for a ~1hr High School class 
    to demonstrate Java Fundamentals
+   
 **VERSION or DATE:** 1.0.0
+
 **HOW TO START THIS PROJECT:** Run the Greenfoot package in Greenfoot
+
 **AUTHORS:** Milo
+
 **USER INSTRUCTIONS:** Use Arrow Keys to move, collect fruit, avoid bombs
 
 This project features the absolute basics of Greenfoot, including a world and 3 distinct actors 
